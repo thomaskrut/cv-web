@@ -1,7 +1,7 @@
 html {
-	padding-top: 30px;
+	padding-top: 20px;
 	
-	background-color: #939B62;
+	background-color: #ABC270;
 }
 
 body {
@@ -36,7 +36,7 @@ table {
 	border: #000000;
 	border-width: 1px;
 	border-style: solid;
-	padding-left: 30px;
+	padding: 30px;
 	border-spacing: 0px;
 	width: 100%;
 }
@@ -60,7 +60,7 @@ tr {
 td.intro {
 	
 	font-family: 'Times New Roman', Times, serif;
-	color: #acacac;
+	color: #473C33;
 	font-size: 14pt;
 	padding-top: 20px;
 	padding-bottom: 40px;
@@ -70,8 +70,10 @@ td.intro {
 td.description {
 	color: #404040;
 	font-size: 12pt;
-	padding-top: 10px;
-	padding-bottom: 60px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 20px;
+	padding-bottom: 30px;
 	font-family: 'Times New Roman', Times, serif;
 	display:block
 }
@@ -79,18 +81,18 @@ td.description {
 td.heading {
 
 	cursor: pointer;	
-	background-color: #FFD56F;
-	
+	background-color: #FEC868;
+	padding: 5px;
 	padding-left: 10px;
 	border: #ffffff;
-	border-left: #000000;
-	border-width: 1px;
+	
+	border-width: 8px;
 	border-style: solid;
 	max-height: 15px;
 }
 
 td.heading:hover {
-	background-color: #FF7B54;
+	background-color: #FDA769;
 }
 
 b {
@@ -119,10 +121,11 @@ b {
 
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 22pt;
-	margin-top: 40px;
+	font-size: 28pt;
+	margin-top: 10px;
 	margin-bottom: 0px;
-	text-align: center;
+	text-align: left;
+	color: #473C33
 }
 
 h2 {
