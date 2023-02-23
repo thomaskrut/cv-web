@@ -15,6 +15,15 @@ img {
 	max-width: 100%
 }
 
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000000
+}
+
 
 table {
 	padding-left: 5px;
@@ -44,7 +53,7 @@ tr {
 }
 
 td {
-	font-size: 10pt;
+	font-size: 11pt;
 }
 
 td.description {
