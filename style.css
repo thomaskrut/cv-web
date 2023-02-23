@@ -1,5 +1,5 @@
 html {
-	background-color: #252525;
+	background-color: #404040;
 }
 
 body {
@@ -34,9 +34,9 @@ table {
 th.sidebar {
 	text-align: left;
 	vertical-align: top;
-	padding: 15px;
+	padding: 25px;
 	padding-top: 30px;
-	background-color: #fff5ce;
+	background-color: #ffde59;
 	border: #ffffff;
 	border-left: #000000;
 	border-right: #000000;
@@ -59,7 +59,7 @@ td.description {
 	font-size: 11pt;
 	padding-top: 10px;
 	padding-bottom: 20px;
-	text-align: justify;
+	
 	display:block
 }
 
@@ -72,6 +72,7 @@ td.heading {
 	border-left: #000000;
 	border-width: 1px;
 	border-style: solid;
+	max-height: 15px;
 }
 
 td.heading:hover {
