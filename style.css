@@ -18,6 +18,10 @@ img {
 	max-width: 100%
 }
 
+.icon {
+	padding: 8px;
+}
+
 a {
 	color: #000000;
 	text-decoration: none;
