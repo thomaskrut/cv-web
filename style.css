@@ -64,7 +64,10 @@ td.intro {
 	font-size: 14pt;
 	padding-top: 20px;
 	padding-bottom: 40px;
+	padding-left: 12px;
+	padding-right: 12px;
 	font-style: italic;
+	text-align: left;
 }
 
 td.description {
@@ -97,7 +100,7 @@ td.heading:hover {
 
 b {
 	font-family: Arial, Helvetica, sans-serif;
-	color: #000000
+	color: #473C33
 }
 
 .duration {
@@ -124,8 +127,11 @@ h1 {
 	font-size: 28pt;
 	margin-top: 10px;
 	margin-bottom: 0px;
-	text-align: left;
 	color: #473C33
+}
+
+hr {
+	max-width: 20%;
 }
 
 h2 {
@@ -134,4 +140,5 @@ h2 {
 	margin-top: 0px;
 	margin-bottom: 0px;
 	text-align: left;
+	
 }
