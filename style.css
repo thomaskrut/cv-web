@@ -57,7 +57,15 @@ tr {
 	
 }
 
-
+td.intro {
+	
+	font-family: 'Times New Roman', Times, serif;
+	color: #acacac;
+	font-size: 14pt;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	font-style: italic;
+}
 
 td.description {
 	color: #404040;
