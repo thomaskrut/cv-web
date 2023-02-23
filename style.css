@@ -1,8 +1,11 @@
 html {
-	background-color: #404040;
+	padding-top: 30px;
+	
+	background-color: #939B62;
 }
 
 body {
+	
 	
 	font-family: Arial, Helvetica, sans-serif;
 	margin: auto;
@@ -26,6 +29,9 @@ a:hover {
 
 
 table {
+	border: #000000;
+	border-width: 1px;
+	border-style: solid;
 	padding-left: 5px;
 	border-spacing: 0px;
 	width: 100%;
@@ -36,13 +42,8 @@ th.sidebar {
 	vertical-align: top;
 	padding: 25px;
 	padding-top: 30px;
-	background-color: #ffde59;
-	border: #ffffff;
-	border-left: #000000;
-	border-right: #000000;
-	border-width: 1px;
-	border-style: solid;
-	font-weight: normal;
+	background-color: #FFD56F;
+	
 	font-size: 9pt;
 }
 
@@ -58,7 +59,7 @@ td.description {
 	color: #404040;
 	font-size: 11pt;
 	padding-top: 10px;
-	padding-bottom: 20px;
+	padding-bottom: 40px;
 	
 	display:block
 }
@@ -66,7 +67,8 @@ td.description {
 td.heading {
 
 	cursor: pointer;	
-	background-color: #ffde59;
+	background-color: #FFD56F;
+	
 	padding-left: 10px;
 	border: #ffffff;
 	border-left: #000000;
@@ -76,7 +78,7 @@ td.heading {
 }
 
 td.heading:hover {
-	background-color: #ffa959;
+	background-color: #FF7B54;
 }
 
 b {
@@ -88,10 +90,11 @@ i {
 }
 
 h1 {
-	font-family: Arial, Helvetica, sans-serif	;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 22pt;
-	margin-top: 20px;
-	margin-bottom: 0px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	text-align: left;
 }
 
 h2 {
@@ -99,4 +102,5 @@ h2 {
 	font-size: 14pt;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	text-align: left;
 }
