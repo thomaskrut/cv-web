@@ -58,7 +58,7 @@ tr {
 td.description {
 	color: #404040;
 	font-size: 12pt;
-	padding-top: 20px;
+	padding-top: 10px;
 	padding-bottom: 60px;
 	font-family: 'Times New Roman', Times, serif;
 	display:block
@@ -86,15 +86,30 @@ b {
 	color: #000000
 }
 
-i {
-	font-size: 9pt;
+.duration {
+	font-size: 8pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #757575;
+	font-style: italic;
+	padding-top: 3px;;
+	padding-bottom: 8px;
+	
+}
+
+.tags {
+	font-size: 8pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #757575;
+	font-style: italic;
+	padding-top: 3px;;
+	padding-bottom: 8px;
 }
 
 h1 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 22pt;
 	margin-top: 40px;
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 	text-align: left;
 }
 
