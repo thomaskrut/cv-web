@@ -4,7 +4,7 @@ html {
 
 body {
 	
-	font-family: Carlito;
+	font-family: Arial, Helvetica, sans-serif;
 	margin: auto;
 	width: 50%;
 	background-color: #ffffff;
@@ -52,11 +52,11 @@ tr {
 	
 }
 
-td {
-	font-size: 11pt;
-}
+
 
 td.description {
+	color: #404040;
+	font-size: 11pt;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	text-align: justify;
@@ -64,7 +64,8 @@ td.description {
 }
 
 td.heading {
-	
+
+	cursor: pointer;	
 	background-color: #ffde59;
 	padding-left: 10px;
 	border: #ffffff;
@@ -77,17 +78,23 @@ td.heading:hover {
 	background-color: #ffa959;
 }
 
+b {
+	color: #000000
+}
+
 i {
 	font-size: 9pt;
 }
 
 h1 {
+	font-family: Arial, Helvetica, sans-serif	;
 	font-size: 22pt;
 	margin-top: 20px;
 	margin-bottom: 0px;
 }
 
 h2 {
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14pt;
 	margin-top: 0px;
 	margin-bottom: 0px;
