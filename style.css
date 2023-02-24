@@ -75,7 +75,7 @@ td.description {
 	font-size: 12pt;
 	padding-left: 12px;
 	padding-right: 12px;
-	padding-top: 20px;
+	padding-top: 10px;
 	padding-bottom: 30px;
 	font-family: 'Times New Roman', Times, serif;
 	display:block
@@ -88,7 +88,6 @@ td.heading {
 	padding: 5px;
 	padding-left: 10px;
 	border: #ffffff;
-	
 	border-width: 8px;
 	border-style: solid;
 	max-height: 15px;
@@ -132,6 +131,7 @@ h1 {
 
 hr {
 	max-width: 20%;
+	color: #FEC868;
 }
 
 h2 {
