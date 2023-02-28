@@ -1,3 +1,9 @@
+
+
+"use strict";
+
+document.getElementById("educationHeading")?.addEventListener("mousedown", () => {showHideRow('education');});
+
 function showHideRow(row) {
 
 	if (document.getElementById(row)!.style.display == "none") {
@@ -6,6 +12,9 @@ function showHideRow(row) {
 	} else {
 		document.getElementById(row)!.style.display="none";
 	}
-	
+
+	console.log(row);
+
 }
+
 
