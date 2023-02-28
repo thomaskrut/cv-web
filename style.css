@@ -1,6 +1,10 @@
 html {
-	padding-top: 20px;
-	
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-image: url("road.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 	background-color: #ABC270;
 }
 

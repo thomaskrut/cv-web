@@ -1,8 +1,6 @@
-
-
 "use strict";
 
-document.getElementById("educationHeading")?.addEventListener("mousedown", () => {showHideRow('education');});
+document.getElementById("educationHeading")?.addEventListener("click", () => {showHideRow('education');});
 
 function showHideRow(row) {
 
