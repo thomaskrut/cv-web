@@ -1,6 +1,6 @@
 {
     "intro": {
-        "text": "Why limit yourself? That is often a valid question, in my experience. I come to the field of software engineering with a wealth of experience in other areas – technical maintenance, customer services, ESL teaching, to name a few. I believe every lesson I learned there will be an asset now. Add to the mix a fluency in code gained at the age of eleven, as well as a deep fascination with various development practices such as object oriented design patterns, TDD and version control. It did take a few years to get there, but I don’t see how it could have happened any other way."
+        "text": "Why limit yourself? That is often a valid question, in my experience. I come to the field of software engineering with a wealth of experience in other areas – technical maintenance, customer services, ESL teaching, to name a few. I believe every lesson I learned there will be an asset now. Graduating in June 2024, I'm currently looking for an internship, a part time position or a summer job."
     },
     "education": [
         {
@@ -9,28 +9,28 @@
             "description": "Most courses here are geared towards Java backend technologies, but languages and frameworks to me are tools and not goals in and of themselves. I will learn anything that is needed in a project to get the job done. Personal goals throughout these studies have been to focus on readability and maintainability of code, understanding the advantages of and gaining experience in test driven development, as well as laying a solid foundation when it comes to collaborating with other developers on various projects."
         },
         {
-            "title": "Engelska, fristående kurser, Högskolan i Borås",
-            "duration": "Augusti 2002—Maj 2003",
-            "description": "Engelska A (30p), Engelska B (30p)"
+            "title": "English, University College of Borås",
+            "duration": "Aug 2002—May 2003",
+            "description": "English A (30 credits) and B (30 credits)"
         }
     ],
     "work": [
         {
-            "title": "Servicetekniker, Selecta AB, Borås",
-            "duration": "Januari 2019—Augusti 2022",
-            "description": "När jag började min anställning som tekniker på Selecta satte jag ett mål: att höja kundnöjdheten på distriktet och korta ner inställelsetiderna till bra nivåer, detta med en övrig bemanning som nu var lägre än innan jag tillträdde. Trots till stora delar för mig obekant maskinpark nådde jag mitt mål inom två månader. Jag gjorde det genom hårt slit, smarta prioriteringar och en grundinställning att ingenting är omöjligt. Arbetet innefattade all form av teknisk fältservice, utbildning av kunder samt planering och utförande av större installationsprojekt."
+            "title": "Service technician, Selecta, Borås",
+            "duration": "Jan 2019—Aug 2022",
+            "description": "Selecta is in the business of vending — supplying clients with a wide range of machines for coffee, sparkling water and snacks. I did technical field work entailing everything from repairs, installations, preventive maintenance, backend application administration, educating customers as well as communicating with suppliers on technical issues.<br><br>Entering into the role I set one primary goal, namely to reduce response times and thereby increase customer satisfaction across my district. I reached this goal within two months, despite a steep learning curve mastering Selecta’s proprietary vending equipment in combination with low staffing levels. In short, I managed to elevate quality of service in the face of some major challenges – through hard work, a flexible mindset and an unwillingness to limit myself in terms of what could be accomplished."
         },
         {
-            "title": "Servicetekniker, JOBmeal, Borås och Halland",
-            "duration": "Februari 2012—Januari 2019",
-            "description": "På JOBmeal var min roll oerhört bred – mitt ansvar för kunderna på distriktet omfattade allt utom nykundsbearbetning. Även orderhantering, renovering av utrustning och upplärning av ny personal låg på mitt bord. Mitt angreppssätt var alltid att tillsammans med mitt team skapa värde för kunden oavsett yttre omständigheter. De distriktsomläggningar, ägarbyten och omorganisationer som pågick i bakgrunden var inget våra kunder någonsin märkte av."
+            "title": "Service agent, JOBmeal, Borås and Halland",
+            "duration": "Feb 2012—Jan 2019",
+            "description": "JOBmeal is a major player in the vending sector, having recently consolidated all regional subsidiaries into a single nationwide organization. Keeping customers happy during this transitional period was certainly a challenge, as well as an opportunity to really make a difference.<br><br>Apart from sales, every other aspect of the entire life cycle of a client’s engagement with JOBmeal would typically require my attention. I would usually be the one to install and calibrate the equipment, deal with subsequent orders and service consultations, carry out repairs, educate client staff in charge of daily maintenance, perform hygienic checks, field fixes, software updates, hardware adjustments as well as removal of equipment in case of termination of contract. It certainly gave me an opportunity to set the standard for delivery of services, and I’m proud to say that most clients remained happily unaware of any turbulent circumstances on the corporate level."
         }
     ],
     "other": [
         {
-            "title": "Naturvårdsguide, Monkeyland Primate Sanctuary, Plettenberg Bay, Sydafrika",
-            "duration": "September 2008—Januari 2009",
-            "description": "Tjänstgjorde under fyra månader som svensk- och engelskspråkig guide. Guidade först i huvudsak svenska turister, men blev snabbt en av få icke infödda guider som fick förmånen att även ta emot inhemska grupper av skolbarn, större turistgrupper från hela världen och VIP-gäster. Fick under denna tid lära känna kulturen på nära håll, då många av mina kollegor bodde i den lokala kåkstaden med allt vad det innebar av fattigdom och marginalisering. En svårsmält men nyttig erfarenhet."
+            "title": "Park ranger, Monkeyland Primate Sanctuary, Plettenberg Bay, South Africa",
+            "duration": "Sep 2008—Jan 2009",
+            "description": "I worked as a park ranger at Monkeyland Primate Sanctuary through the busy Christmas holiday season of 2008. Initially taking care mostly of Swedish tour groups, I was readily promoted to also handling native visitors, large school groups from nearby villages, VIP guests as well as the occasional busload of German tourists. This job was an intricate mix of understanding cultural differences, communicating nature conservation in interesting ways while tailoring my approach depending on the audience, as well as learning where to find the monkeys while avoiding the snakes. Living on the premises with native staff as well as foreign tour guides, it was a fantastic opportunity to gain some general social and communication skills that have served me well since then."
         }
     ]
 }
