@@ -1,0 +1,18 @@
+{
+    "intro": {
+        "swe": "Ingenting är omöjligt. Det tycker jag är en bra grundinställning. Efter femton år i olika tekniska roller väljer jag nu att tillämpa mina färdigheter i kreativ problemlösning till fältet mjukvaruutveckling.<br><br>Jag söker i dagsläget i första hand en praktikplats där jag kan få bli en del i ett team och suga åt mig så mycket som möjligt från den verklighet jag framöver ska jobba i. Även sommarjobb, kortare projekt och deltidsanställningar är intressant. Examen tar jag i juni 2024.",
+        "eng": "Why limit yourself?"
+    },
+    "education": [
+        {
+            "title": "Javautvecklare, Nackademin, Solna",
+            "duration": "September 2022—pågående",
+            "description": "Systemutveckling med fokus på Java och backend. Under utbildningen har jag fokuserat på att skriva kod som är läsbar och utbyggbar, kod som går att underhålla och testa, kod som andra kan förstå och jobba vidare med. Eftersom större delen av studierna består av olika av projekt går dessa kriterier alltid att ha med sig – man sitter sällan ensam med ett problem."
+        },
+        {
+            "title": "Engelska, fristående kurser, Högskolan i Borås",
+            "duration": "Augusti 2002—Maj 2003",
+            "description": "Engelska A (30p), Engelska B (30p)"
+        }
+    ]
+}
