@@ -22,11 +22,8 @@ img {
 
 img.icon {
   max-width: 20px;
-  
-}
-
-.icon {
-  padding: 8px;
+  cursor: pointer;
+  padding: 5px;
 }
 
 a {
