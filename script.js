@@ -1,14 +1,27 @@
 "use strict";
 
+function loadJsonToTable(dataObject, jsonObjectName, elementId) {
+    for (const entry of dataObject[jsonObjectName]) {
+
+        document.getElementById(elementId).innerHTML = document.getElementById(elementId).innerHTML + `
+        <b>&bull; ${entry.title}</b><br>
+        <div class="duration">${entry.duration}</div>
+        ${entry.description}
+        <br><br>`;
+    }
+}
+
 let data = fetch('./data.json')
     .then((response) => response.json())
     .then(data => {
 
-        console.log(data.intro.swe);
+        document.getElementById('Intro').innerHTML = data.intro.swe;
 
-        document.getElementById('intro').innerHTML = data.intro.swe;
+        loadJsonToTable(data, 'education', 'Utbildning');
+        loadJsonToTable(data, 'work', 'Arbetslivserfarenhet');
+        loadJsonToTable(data, 'other', 'Övrigt');
 
-    })
+    });
 
 
 
