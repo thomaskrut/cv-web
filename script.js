@@ -11,7 +11,7 @@ function loadJsonToTable(dataObject, jsonObjectName, elementId) {
     }
 }
 
-let data = fetch('./data.json')
+let data = fetch('./content.json')
     .then((response) => response.json())
     .then(data => {
 
