@@ -76,8 +76,6 @@ function loadContent(language) {
 
 function loadJsonToTable(dataObject, jsonObjectName, elementId) {
 
-
-
     document.getElementById(elementId).innerHTML = "";
     for (const entry of dataObject[jsonObjectName]) {
 
